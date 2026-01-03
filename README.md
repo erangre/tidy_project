@@ -10,10 +10,10 @@ The project uses the HAR using smartphones dataset from accelerometer and gryrsc
 
 ## Running the Script:
 
-1.  Download the HAR dataset (link below).\
+1.  Download the HAR dataset (link below).
 2.  Extract the contents and place the unzipped data in the working directory (make sure it is in a sub-folder UCI HAR Dataset).\
-3.  Run the script `run_analysis.R` using R or RStudio.\
-4.  See output in "tidy_data.csv".\
+3.  Run the script `run_analysis.R` using R or RStudio.
+4.  See output in "tidy_data.csv".
 
 ## Data Source:
 

@@ -26,11 +26,11 @@ The present data is a tidy data set containing the average value of all mean and
 
 ## Data handling:
 
-1. Loaded data and metadata, adding column names to data from the metadata.\
-2. Merged training and test data sets.\
-3. Kept only mean and std features.\
-4. created tidy data set with average values for each subect and activity.\
-5. Exported the tidy data set to "tidy_data.csv".\
+1. Loaded data and metadata, adding column names to data from the metadata.
+2. Merged training and test data sets.
+3. Kept only mean and std features.
+4. created tidy data set with average values for each subect and activity.
+5. Exported the tidy data set to "tidy_data.csv".
 
 ---
 
